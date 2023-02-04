@@ -31,23 +31,13 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
+\      <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+\    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+\  </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
@@ -65,12 +55,6 @@
 * [![Tailwind CSS][tailwind.com]][tailwind-url]
 * [![MongoDB][mongodb.com]][mongodb-url]
 * [![NODE.JS][node.com]][node-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -98,18 +82,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - udbasili@yahoo.com
+Udendu Abasili - udbasili@yahoo.com
 
-Project Link: [https://github.com/udabasili/unshelled_web](https://github.com/udabasili/unshelled_web)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
+Github Link: [https://github.com/udabasili/unshelled_web](https://github.com/udabasili/unshelled_web)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
