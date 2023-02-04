@@ -1,0 +1,11 @@
+{
+    "name": "Backend",
+    "description": "Backend for Unshelled Project",
+    "repository": "https://github.com/udabasili/backend",
+    "keywords": [
+        "node",
+        "express",
+        "heroku"
+    ],
+    "image": "heroku/nodejs"
+}
