@@ -23,6 +23,9 @@
   "standard": {
     "env": [
       "jest"
+    ],
+    "ignore": [
+      "**/public/"
     ]
   },
   "devDependencies": {
