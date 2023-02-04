@@ -6,9 +6,6 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 import path from 'path';
 
-__filename = fileURLToPath(import.meta.url);
-__dirname = path.dirname(__filename);
-
 dotenv.config();
 
 const app = express();
@@ -28,6 +25,6 @@ app.use(function (error, req, res, next) {
 	});
 });
 
-app.use(express.static(path.resolve(__dirname, './public/build')));
+app.use(express.static(path.resolve('./public/build')));
 
 export default app;
