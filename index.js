@@ -1,4 +1,5 @@
 import app from './src/app.js';
+import express from 'express';
 import config from 'config';
 import { dbConnect } from './src/utils/db.js';
 import path from 'path';
