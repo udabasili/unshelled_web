@@ -1,8 +1,13 @@
+import { fileURLToPath } from 'url';
 import express from 'express';
 import orderRoute from './orders/OrdersRouter.js';
 import sellerRoute from './seller/SellerRouter.js';
 import cors from 'cors';
 import dotenv from 'dotenv';
+import path from 'path';
+
+__filename = fileURLToPath(import.meta.url);
+__dirname = path.dirname(__filename);
 
 dotenv.config();
 
@@ -22,5 +27,7 @@ app.use(function (error, req, res, next) {
 		message: error.message,
 	});
 });
+
+app.use(express.static(path.resolve(__dirname, './public/build')));
 
 export default app;
