@@ -1,0 +1,82 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"name": "web-plannerly",
+			"path": "../../../../Portfolio and Projects/projects/web-plannerly"
+		},
+		{
+			"name": "vibrant-ui-kit",
+			"path": "../../../../Portfolio and Projects/projects/vibrant-ui-kit"
+		},
+		{
+			"name": ".next",
+			"path": "../../../../Portfolio and Projects/projects/web-plannerly/.next"
+		},
+		{
+			"name": "cyber-groceries",
+			"path": "../../../../Portfolio and Projects/projects/cyber-groceries"
+		},
+		{
+			"name": ".next",
+			"path": "../../../../Portfolio and Projects/projects/cyber-groceries/.next"
+		},
+		{
+			"name": "organic-bank",
+			"path": "../../../../Portfolio and Projects/projects/organic-bank"
+		},
+		{
+			"name": "testing-ui-kit-app",
+			"path": "../../../../Portfolio and Projects/projects/testing-ui-kit-app"
+		},
+		{
+			"name": ".next",
+			"path": "../../../../Portfolio and Projects/projects/organic-bank/.next"
+		},
+		{
+			"name": ".next",
+			"path": "../../../../Portfolio and Projects/projects/testing-ui-kit-app/.next"
+		},
+		{
+			"name": "portfolio",
+			"path": "../../../../Portfolio and Projects/portfolio"
+		},
+		{
+			"name": "client",
+			"path": "../../client"
+		},
+		{
+			"name": "backend",
+			"path": ".."
+		},
+		{
+			"name": ".next",
+			"path": "../../../../Portfolio and Projects/portfolio/.next"
+		},
+		{
+			"name": "boilerplate1",
+			"path": "../../../../Freelance Work/boilerplates/boilerplate1"
+		}
+	],
+	"settings": {
+		"jest.disabledWorkspaceFolders": [
+			"Work and Job Projects",
+			"web-plannerly",
+			"vibrant-ui-kit",
+			".next",
+			"cyber-groceries",
+			".next",
+			"organic-bank",
+			"testing-ui-kit-app",
+			".next",
+			".next",
+			"portfolio",
+			"client",
+			"backend",
+			".next",
+			"boilerplate1"
+		]
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"jest.disabledWorkspaceFolders": [
+			"Work and Job Projects",
+			"web-plannerly",
+			"vibrant-ui-kit",
+			".next",
+			"cyber-groceries",
+			".next",
+			"organic-bank",
+			"testing-ui-kit-app",
+			".next",
+			".next",
+			"portfolio",
+			"client",
+			"backend",
+			".next",
+			"boilerplate1"
+		]
+	}
+}
