@@ -16,6 +16,12 @@ app.use(cors());
 app.use(express.json());
 app.use(orderRoute);
 app.use(sellerRoute);
+
+app.use(express.static(path.join(__dirname, '../public/build')));
+app.get('/*', (req, res) => {
+	res.sendFile(path.join(__dirname, '../public/build/index.html'));
+});
+
 app.use(function (_req, _res, next) {
 	next({ status: 404 });
 });
@@ -25,11 +31,6 @@ app.use(function (error, req, res, next) {
 		success: false,
 		message: error.message,
 	});
-});
-
-app.use(express.static(path.join(__dirname, '../public/build')));
-app.get('/*', (req, res) => {
-	res.sendFile(path.join(__dirname, '../public/build/index.html'));
 });
 
 export default app;
