@@ -25,7 +25,8 @@
       "jest"
     ],
     "ignore": [
-      "**/public/"
+      "**/public/",
+      "**/build/"
     ]
   },
   "devDependencies": {
