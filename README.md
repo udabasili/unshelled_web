@@ -63,7 +63,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-The best way is to visit the Vercel website for the deployed website  [Unshelled App](https://mighty-atoll-79005.herokuapp.com/).
+The best way is to visit the Heroku website for the deployed website  [Unshelled App](https://mighty-atoll-79005.herokuapp.com/).
 
 <!-- CONTRIBUTING -->
 ## Contributing
