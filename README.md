@@ -11,14 +11,14 @@
 <br />
 <div align="center">
 
-<h3 align="center">unshelled web app</h3>
+<h3 align="center">UnShelled web app</h3>
 
   <p align="center">
     <br />
     <a href="https://github.com/udabasili/unshelled_web"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/udabasili/unshelled_web">View Demo</a>
+    <a href="https://mighty-atoll-79005.herokuapp.com/">View Demo</a>
     ·
     <a href="https://github.com/udabasili/unshelled_web/issues">Report Bug</a>
     ·
@@ -40,6 +40,11 @@
   </ol>
 </details>
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+![Unshelled App](https://user-images.githubusercontent.com/33573587/216807243-c58275ab-c695-4935-bf34-ec353bc2ac20.png)
+
 ### Built With
 
 * [![React][React.js]][React-url]
@@ -50,6 +55,11 @@
 * [![Tailwind CSS][tailwind.com]][tailwind-url]
 * [![MongoDB][mongodb.com]][mongodb-url]
 * [![NODE.JS][node.com]][node-url]
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+The best way is to visit the Vercel website for the deployed website  [Unshelled App](https://mighty-atoll-79005.herokuapp.com/).
 
 <!-- CONTRIBUTING -->
 ## Contributing
